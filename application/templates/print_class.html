@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet"
+    href="https://unpkg.com/tachyons@4.12.0/css/tachyons.min.css" href= />
+    <link rel="stylesheet" href="static/css/yoga_class_stylesheet.css" />
+  </head>
+  <body class="avenir">
+    <h1 class="tc f1 lh-copy fw3">Your Yoga Class</h1>
+
+    <!-- <h2 class="tc f3 lh-copy"></h2> -->
+    <div class="mw7 center ph3 pv3">
+      <div class="flex flex-wrap mw7 justify-center">
+        <div class="pa3 pa5-ns">
+          <h2 class="tc f3 lh-copy fw3">Your {{ peak_pose }} Class:</h2>
+          <ul class="list pl0 measure center">
+            {% for value in result %}
+            <li class="lh-copy pv2 ba bl-0 bt-0 br-0 b--dotted b--black-30">
+              {{ value }}
+            </li>
+            {% endfor %}
+          </ul>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

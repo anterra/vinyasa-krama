@@ -1,0 +1,34 @@
+:root {
+  --aero-blue: hsla(168, 81%, 85%, 1);
+  --powder-blue: hsla(188, 45%, 78%, 1);
+  --blue-bell: hsla(238, 23%, 69%, 1);
+  --mauve-taupe: hsla(321, 14%, 48%, 1);
+  --twilight-lavender: hsla(334, 29%, 37%, 1);
+
+  --alabaster: hsla(144, 15%, 87%, 1);
+  --champagne-pink: hsla(19, 100%, 93%, 1);
+  --pink: hsla(349, 100%, 90%, 1);
+  --light-pink: hsla(351, 77%, 82%, 1);
+  --mountbatten-pink: hsla(343, 13%, 56%, 1);
+
+  --peach-puff: hsla(30, 83%, 86%, 1);
+  --light-pink: hsla(356, 100%, 82%, 1);
+  --blush: hsla(347, 62%, 62%, 1);
+  --maroon-x-11: hsla(338, 49%, 43%, 1);
+  --dark-sienna: hsla(337, 77%, 15%, 1);
+}
+
+body {
+  /* background-color: var(--blue-bell); */
+  background-image: url(/static/img/bokeh.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+  color: var(--maroon-x-11);
+}
+
+h2 {
+  color: var(--mauve-taupe);
+}
