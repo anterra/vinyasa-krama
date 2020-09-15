@@ -1,4 +1,4 @@
-### Project 5 Proposal
+### Metis Final Project
 
 # Vinyasa Krama: AI-Generated Yoga Classes
 
