@@ -70,13 +70,14 @@ I am excited to continue work on this application and eventually bring it to mar
 
 - Bi-Directional LSTM
 - Tensorflow/Keras
+- Word2Vec
 - Unity
 - Jupyter Notebook
 - Python
 - Pandas
-- NLP
 - Flask
 - HTML/CSS
+- Heroku
 
 ## Skills Demonstrated
 
@@ -84,3 +85,4 @@ I am excited to continue work on this application and eventually bring it to mar
 - Unsupvised Machine Learning
 - Web Scraping
 - Word Embeddings
+- Natural Language Processing
