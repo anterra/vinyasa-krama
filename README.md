@@ -1,6 +1,6 @@
 ### Project 5 Proposal
 
-# Vinyasa Krama: Deep Learning Generated Yoga Classes
+# Vinyasa Krama: AI-Generated Yoga Classes
 
 ### Anterra Kennedy
 
