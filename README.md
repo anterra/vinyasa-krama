@@ -66,7 +66,7 @@ I am excited to continue work on this application and eventually bring it to mar
 
 - [Anterra Kennedy](https://linkedin.com/in/anterrakennedy)
 
-## Technologies Used (Anticipated):
+## Technologies Used:
 
 - Bi-Directional LSTM
 - Tensorflow/Keras
